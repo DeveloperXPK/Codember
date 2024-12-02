@@ -55,4 +55,4 @@ def accesoATerminal(combinacion, movimientos):
 print(accesoATerminal("000", "URURD"))  # 119
 print(accesoATerminal("1111", "UUURUUU"))  # 4411
 print(accesoATerminal("9999", "LULULULD"))  # 8000
-print(accesoATerminal("528934712834", "URDURUDRUDLLLLUUDDUDUDUDLLRRRR")) # 528934712834
+print(accesoATerminal("528934712834", "URDURUDRUDLLLLUUDDUDUDUDLLRRRR")) # 628934712834
